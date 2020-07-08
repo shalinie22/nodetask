@@ -56,5 +56,5 @@ app.get("/user",(req,res)=>{
 })
 app.get("/ssttaa",(req,res)=>{
     res.send(staff_details)
-   // console.log(student_details)
+  
 })
